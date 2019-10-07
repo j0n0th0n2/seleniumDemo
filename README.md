@@ -38,3 +38,4 @@ Areas for Improvement
 2. Introduce TestNG and real time reporting via their [Test Listener Interface|http://javadox.com/org.testng/testng/6.8/org/testng/ITestListener.html]
 3. Introduce logging to the classes using log4j or slf4j
 4. Introduce a reporting database for archiving of test results
+5. There is room for adding more tests
