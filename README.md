@@ -3,7 +3,7 @@ Selenium Demo
 
 Statement of the Problem
 =====================
-Write a UI end to end user test class (language of your choice) that launches a web browser and navigates to the [WebdriverIO website] (http://webdriver.io). Click on the 'API' link in the top navigation bar and load their [API documentation] (http://webdriver.io/api.html_). Use their search functionality on this page to search their API for the text 'click'. Collect and return the link names in the left nav section that are returned as a result of the search. Have your test verify that the following 5 action results are returned (click, doubleClick, leftClick, middleClick, rightClick). If possible, use the Page Object model for element locators and helper functions.
+Write a UI end to end user test class (language of your choice) that launches a web browser and navigates to the [WebdriverIO website](http://webdriver.io). Click on the 'API' link in the top navigation bar and load their [API documentation](http://webdriver.io/api.html_). Use their search functionality on this page to search their API for the text 'click'. Collect and return the link names in the left nav section that are returned as a result of the search. Have your test verify that the following 5 action results are returned (click, doubleClick, leftClick, middleClick, rightClick). If possible, use the Page Object model for element locators and helper functions.
 As a second task create another set of test cases that would further test the functionality of this search widget.
 
 _This problem statement is for the old version of the UI reflected in the [v4 website](http://v4.webdriver.io)_
