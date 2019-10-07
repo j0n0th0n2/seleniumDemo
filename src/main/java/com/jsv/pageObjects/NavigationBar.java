@@ -33,4 +33,21 @@ public class NavigationBar {
 
     /* IMPLEMENT OTHER PAGE OBJECT SELECTIONS HERE  */
 
+
+    public <T extends Page> T selectGuide() {
+        //TODO: implemment this method
+        return null;
+    }
+
+    public <T extends Page> T  selectHelp() {
+        //TODO: implemment this method
+        return null;
+    }
+
+    public <T extends Page> T  selectGithub() {
+        //TODO: implemment this method
+        return null;
+    }
+
+
 }
