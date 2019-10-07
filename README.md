@@ -35,7 +35,7 @@ Other OOD principles, **Single Purpose** and **D.R.Y** _(don’t repeat yourself
 Next Steps
 ===================
 1. There is a problem with re-finding objects in lists.  If these Elements become stale, they cannot be refreshed correctly.  There is a solution for this which is about 2 days of work.
-2. Introduce TestNG and real time reporting via their [Test Listener Interface|http://javadox.com/org.testng/testng/6.8/org/testng/ITestListener.html]
+2. Introduce TestNG and real time reporting via their [Test Listener Interface](http://javadox.com/org.testng/testng/6.8/org/testng/ITestListener.html)
 3. Introduce logging to the classes using log4j or slf4j
 4. Introduce a reporting database for archiving of test results
 5. Adding more tests
